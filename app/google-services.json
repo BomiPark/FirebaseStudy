@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "729839337778",
+    "firebase_url": "https://fir-cdf3a.firebaseio.com",
+    "project_id": "fir-cdf3a",
+    "storage_bucket": "fir-cdf3a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729839337778:android:13c6effb3fe0b7a8",
+        "android_client_info": {
+          "package_name": "project.android.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "729839337778-kr95nlhu2a5u5oapahgsi2ovb6nvtul4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBD0gJ_C3zBX7z4UOO4Vl2hwX9zLLD0hRk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
